@@ -280,7 +280,7 @@
             <groupId>com.fasterxml.jackson.core</groupId>
             <artifactId>jackson-databind</artifactId>
 <<<<<<< HEAD
-            <version>2.7.4</version>
+            <version>2.9.10.4</version>
 =======
             <version>2.9.10.4</version>
 >>>>>>> 7b9cbeb355e48142093f3e9e82574a1ea291ee22
