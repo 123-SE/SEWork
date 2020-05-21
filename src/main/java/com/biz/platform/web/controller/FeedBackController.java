@@ -16,9 +16,6 @@ import org.springframework.web.bind.annotation.ResponseBody;
 
 import javax.servlet.http.HttpServletRequest;
 
-/**
- * Created by huangdonghua on 2017/12/14.
- */
 @Controller
 @RequestMapping("/feedBack")
 public class FeedBackController {

@@ -6,9 +6,6 @@ import javax.persistence.Id;
 import javax.persistence.Table;
 import java.util.Date;
 
-/**
- * Created by huangdonghua on 2017/12/13.
- */
 @Table(name = "biz_platform_feedback")
 public class FeedBack {
 

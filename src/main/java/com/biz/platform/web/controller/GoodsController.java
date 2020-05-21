@@ -24,9 +24,6 @@ import javax.servlet.http.HttpServletRequest;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by huangdonghua on 2017/12/14.
- */
 @Controller
 @RequestMapping("/goods")
 public class GoodsController {

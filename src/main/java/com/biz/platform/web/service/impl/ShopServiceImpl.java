@@ -21,9 +21,6 @@ import java.io.IOException;
 import java.util.Date;
 import java.util.List;
 
-/**
- * Created by huangdonghua on 2017/12/14.
- */
 @Service(value = "shopService")
 public class ShopServiceImpl extends BaseService<Shop> implements ShopService {
     private Logger logger = LoggerFactory.getLogger(ShopServiceImpl.class);

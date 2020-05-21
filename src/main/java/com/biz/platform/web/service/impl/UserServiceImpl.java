@@ -16,9 +16,6 @@ import javax.servlet.http.HttpServletRequest;
 import java.util.Date;
 import java.util.List;
 
-/**
- * Created by huangdonghua on 2017/12/14.
- */
 @Service(value = "userService")
 public class UserServiceImpl extends BaseService<User> implements UserService{
 

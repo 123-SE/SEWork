@@ -4,9 +4,6 @@ import com.biz.platform.web.pojo.FeedBack;
 
 import java.util.List;
 
-/**
- * Created by huangdonghua on 2017/12/14.
- */
 public interface FeedBackService {
     /**
      * 通过FeedBackId获得 FeedBack

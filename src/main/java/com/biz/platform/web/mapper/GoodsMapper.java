@@ -7,9 +7,6 @@ import tk.mybatis.mapper.common.Mapper;
 
 import java.util.List;
 
-/**
- * Created by huangdonghua on 2017/12/14.
- */
 public interface GoodsMapper extends Mapper<Goods>{
 
     /**

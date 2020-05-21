@@ -2,9 +2,6 @@ package com.biz.platform.web.service;
 
 import com.biz.platform.web.pojo.User;
 
-/**
- * Created by huangdonghua on 2017/12/14.
- */
 public interface UserService {
 
     /**

@@ -26,9 +26,6 @@ import java.io.File;
 import java.io.IOException;
 import java.io.OutputStream;
 
-/**
- * Created by huangdonghua on 2017/12/14.
- */
 @Controller
 @RequestMapping("/shop")
 public class ShopController {

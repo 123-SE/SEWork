@@ -8,9 +8,6 @@ import org.springframework.web.multipart.MultipartFile;
 
 import java.util.List;
 
-/**
- * Created by huangdonghua on 2017/12/14.
- */
 public interface GoodsService {
     /**
      * 通过goodsId获取goods

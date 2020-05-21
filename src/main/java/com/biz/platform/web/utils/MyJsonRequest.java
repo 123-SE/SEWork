@@ -2,9 +2,6 @@ package com.biz.platform.web.utils;
 
 import java.util.List;
 
-/**
- * Created by huangdonghua on 2017/12/14.
- */
 public class MyJsonRequest <T> implements java.io.Serializable {
 
     private T gridData;

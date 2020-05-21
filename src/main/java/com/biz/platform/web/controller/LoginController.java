@@ -19,9 +19,6 @@ import java.awt.image.BufferedImage;
 import java.io.IOException;
 import java.util.Random;
 
-/**
- * Created by huangdonghua on 2017/12/14.
- */
 @Controller
 public class LoginController {
 

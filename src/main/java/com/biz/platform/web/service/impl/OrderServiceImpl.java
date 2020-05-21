@@ -20,9 +20,6 @@ import tk.mybatis.mapper.entity.Example;
 import java.util.Date;
 import java.util.List;
 
-/**
- * Created by huangdonghua on 2017/12/14.
- */
 @Service(value = "orderService")
 public class OrderServiceImpl extends BaseService<Order> implements OrderService {
 

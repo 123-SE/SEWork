@@ -26,9 +26,6 @@ import java.io.IOException;
 import java.util.Date;
 import java.util.List;
 
-/**
- * Created by huangdonghua on 2017/12/14.
- */
 @Service(value = "goodsService")
 public class GoodsServiceImpl extends BaseService<Goods> implements GoodsService {
 

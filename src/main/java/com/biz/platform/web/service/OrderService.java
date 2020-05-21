@@ -5,9 +5,6 @@ import com.biz.platform.web.pojo.Order;
 import com.biz.platform.web.pojo.User;
 import com.github.pagehelper.PageInfo;
 
-/**
- * Created by huangdonghua on 2017/12/14.
- */
 public interface OrderService {
     /**
      * 通过orderId获取order

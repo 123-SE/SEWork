@@ -24,9 +24,6 @@ import java.util.List;
 import java.util.UUID;
 import java.util.concurrent.LinkedBlockingDeque;
 
-/**
- * Created by huangdonghua on 2017/12/14.
- */
 @Controller
 @RequestMapping("/order")
 public class OrderController {

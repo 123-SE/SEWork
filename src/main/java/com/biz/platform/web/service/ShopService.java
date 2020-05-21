@@ -4,9 +4,6 @@ import com.biz.platform.web.pojo.Shop;
 import com.github.pagehelper.PageInfo;
 import org.springframework.web.multipart.MultipartFile;
 
-/**
- * Created by huangdonghua on 2017/12/14.
- */
 public interface ShopService {
     /**
      * 通过shopId获取shop

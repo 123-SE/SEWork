@@ -14,9 +14,6 @@ import org.springframework.web.bind.annotation.ResponseBody;
 
 import javax.servlet.http.HttpServletRequest;
 
-/**
- * Created by huangdonghua on 2017/12/13.
- */
 @Controller
 @RequestMapping("/user")
 public class UserController {
